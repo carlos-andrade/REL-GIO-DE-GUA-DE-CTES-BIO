@@ -1,0 +1,37 @@
+name: Pesquisa Ctesíbio — coleta automatizada
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pesquisa-ctesibio
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Executar coletor
+        run: |
+          python pesquisa/coletor/ctesibio_collector.py --queries pesquisa/consultas/CONSULTAS_CTÉSIBIO_V1.md --output pesquisa/dados/rodada-${{ github.run_id }} --max-results 20
+      - name: Validar rodada
+        run: |
+          python pesquisa/validacao/validate_ctesibio.py --round pesquisa/dados/rodada-${{ github.run_id }}
+      - name: Registrar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pesquisa/dados pesquisa/relatorios
+          git diff --cached --quiet || git commit -m "research: coleta Ctesíbio rodada ${{ github.run_id }}"
+          git push
