@@ -1,7 +1,7 @@
 # ETAPA 04 — SÍNTESE HISTÓRICA, RECONSTRUÇÃO E ESPECIFICAÇÃO
 
 **Projeto:** RELÓGIO DE ÁGUA DE CTESÍBIO  
-**Repositório:** carlos-andrade/REL-GIO-DE-GUA-DE-CTES-BIO  
+**Repositório:** carlos-andrade/RELOGIO_DE_AGUA_DE_CTESIBIO  
 **Versão:** V1  
 **Data:** 27/09/2026
 
