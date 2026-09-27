@@ -40,3 +40,7 @@ Nenhuma dimensão crítica deverá ser fixada sem rastreabilidade para requisito
 ## Próxima etapa
 
 Após a arquitetura física, preparar fabricação, montagem e protocolo de comissionamento.
+
+## Próxima etapa
+
+Etapa 7 — Fabricação, Montagem e Comissionamento: ordem de fabricação, instruções de montagem, inspeção dimensional, teste de estanqueidade, teste hidráulico inicial, alinhamento mecânico, instalação da instrumentação, checklist de segurança e protocolo de liberação para calibração.
