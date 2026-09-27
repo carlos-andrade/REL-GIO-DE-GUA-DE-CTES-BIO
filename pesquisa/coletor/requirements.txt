@@ -1,0 +1,2 @@
+# V1 usa somente a biblioteca padrão do Python.
+# Dependências de clientes oficiais de APIs podem ser adicionadas em versões futuras.
