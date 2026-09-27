@@ -1,0 +1,9 @@
+id,componente,grandeza,unidade,n_repeticoes,media,desvio_padrao,incerteza_tipo_A,incerteza_tipo_B,incerteza_combinada,status,observacao
+D0-G01,Reservatório,altura interna útil,mm,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G02,Reservatório,diâmetro/largura interna,mm,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G03,Reservatório,área de seção,mm²,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G04,Reservatório,volume útil,mL,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G05,Referência,níveis de referência,mm,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G06,Reservatório,delta V por delta H,mL/mm,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G07,Descarga,volume descarregado,mL,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
+D0-G08,Descarga,volume residual,mL,0,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,NÃO CALCULADO,PENDENTE,Aguardando dados brutos
