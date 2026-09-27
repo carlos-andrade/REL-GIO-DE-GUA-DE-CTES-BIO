@@ -1,7 +1,7 @@
 # MANIFESTO DA CONFIGURAÇÃO OFICIAL V1.0
 
 **Projeto:** RELÓGIO DE ÁGUA DE CTESÍBIO  
-**Repositório:** carlos-andrade/REL-GIO-DE-GUA-DE-CTES-BIO  
+**Repositório:** carlos-andrade/RELOGIO_DE_AGUA_DE_CTESIBIO  
 **Arquivo:** `release/manifesto/MANIFESTO_CONFIGURACAO_OFICIAL_V1.0.md`  
 **Versão documental:** V1.0  
 **Data de criação:** 27/09/2026  
@@ -21,7 +21,7 @@ Este documento estabelece o modelo do Manifesto da Configuração Oficial V1.0 e
 |---|---|
 | PROJECT-ID | `CTESIBIO` |
 | Projeto | Relógio de Água de Ctesíbio |
-| Repositório | `carlos-andrade/REL-GIO-DE-GUA-DE-CTES-BIO` |
+| Repositório | `carlos-andrade/RELOGIO_DE_AGUA_DE_CTESIBIO` |
 | Configuração | `CONFIG-1.0-CANDIDATA` |
 | Release | `CTESIBIO-REL-1.0.0-CANDIDATA` |
 | Estado | `PRÉ-RELEASE` |
