@@ -1,0 +1,2 @@
+id,componente,grandeza,unidade,metodo,instrumento,instrumento_id,resolucao,temperatura_c,repeticao,valor_bruto,incerteza,observacao,data_hora,status
+D0-0001,NÃO MEDIDO,altura interna útil,mm,NÃO MEDIDO,NÃO MEDIDO,NÃO MEDIDO,NÃO MEDIDO,NÃO MEDIDO,1,NÃO MEDIDO,NÃO MEDIDO,Aguardando protótipo ou peça física,NÃO MEDIDO,ABERTO
