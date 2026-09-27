@@ -2,7 +2,7 @@
 
 **Projeto:** Relógio de Água de Ctesíbio
 **Data de vigência:** 27/09/2026
-**Repositório oficial:** carlos-andrade/REL-GIO-DE-GUA-DE-CTES-BIO
+**Repositório oficial:** carlos-andrade/RELOGIO_DE_AGUA_DE_CTESIBIO
 **Status:** REGRA OPERACIONAL DO PROJETO
 
 ## 1. Regra fundamental
