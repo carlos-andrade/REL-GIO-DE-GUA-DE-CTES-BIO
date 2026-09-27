@@ -1,25 +1,33 @@
-# PRÓXIMA ETAPA — VALIDAÇÃO DE FONTES
+# VALIDAÇÃO DA PESQUISA — CTESÍBIO
 
-Esta etapa está preparada para execução após a primeira rodada do coletor.
+## Etapa 3
 
-## Procedimento
+Esta pasta contém a validação estrutural das rodadas produzidas pelo coletor.
 
-1. Ler pesquisa/dados/rodada-*/results.jsonl.
-2. Deduplicar preservando a origem.
-3. Confirmar metadados e URL.
-4. Classificar a natureza da fonte.
-5. Extrair afirmações sobre nível, flutuador, pressão, válvulas, sifão, engrenagens, indicador e compensação sazonal.
-6. Registrar a evidência que sustenta cada afirmação.
-7. Procurar evidência contraditória.
-8. Atribuir confiança com justificativa.
-9. Produzir pesquisa/relatorios/RELATORIO_VALIDACAO_V1.md.
+### Execução
 
-## Regra
+`python pesquisa/validacao/validate_ctesibio.py`
 
-Resultado encontrado pelo coletor = candidato. Não é fato validado.
+Ou, para uma rodada específica:
 
-Trilha obrigatória: consulta → provedor → URL → documento → afirmação → evidência → classificação.
+`python pesquisa/validacao/validate_ctesibio.py --round pesquisa/dados/rodada-001`
 
-## Próxima etapa já preparada
+O relatório é gravado em `pesquisa/relatorios/RELATORIO_VALIDACAO_V1.md`.
 
-Após a validação, executar a síntese técnica e reconstrução comparativa em pesquisa/sintese/.
+## Regra de evidência
+
+Uma fonte retornada pelo coletor é uma **candidata**. Validação estrutural não equivale a validação histórica.
+
+A revisão deve separar: fato documentado; interpretação acadêmica; reconstrução moderna; hipótese de engenharia; afirmação sem evidência suficiente; contradição entre fontes.
+
+## Rastreabilidade obrigatória
+
+Toda afirmação relevante deve permitir o percurso: consulta → provedor → fonte candidata → validação documental → afirmação → evidência → síntese.
+
+## Automação
+
+O workflow `.github/workflows/pesquisa-ctesibio.yml` permite execução manual e semanal do coletor, seguida de validação estrutural e registro dos resultados no repositório.
+
+## Próxima etapa
+
+Após a validação documental, executar a **Etapa 4 — Síntese Técnica e Reconstrução**, usando `pesquisa/sintese/README.md` como contrato.
