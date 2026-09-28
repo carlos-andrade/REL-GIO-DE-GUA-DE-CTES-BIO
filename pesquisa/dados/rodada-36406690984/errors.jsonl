@@ -1,0 +1,33 @@
+{"provider": "openalex", "query": "Ctesibius water clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:03.344320+00:00"}
+{"provider": "openalex", "query": "Ctesibius clepsydra", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:05.506493+00:00"}
+{"provider": "openalex", "query": "Ctesibius hydraulic clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:07.331745+00:00"}
+{"provider": "openalex", "query": "Ctesibian water clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:09.547204+00:00"}
+{"provider": "openalex", "query": "Ctesibius clock Alexandria", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:11.333964+00:00"}
+{"provider": "openalex", "query": "Ctesibius clepsydra reconstruction", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:13.372278+00:00"}
+{"provider": "openalex", "query": "Ctesibius constant water level", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:15.476478+00:00"}
+{"provider": "openalex", "query": "Ctesibius float mechanism", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:17.659834+00:00"}
+{"provider": "openalex", "query": "Ctesibius siphon clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:19.639008+00:00"}
+{"provider": "openalex", "query": "Ctesibius water pressure regulation", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:27.040611+00:00"}
+{"provider": "openalex", "query": "Ctesibius gears clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:28.580906+00:00"}
+{"provider": "openalex", "query": "Ctesibius seasonal hours", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:30.585679+00:00"}
+{"provider": "openalex", "query": "Vitruvius Ctesibius water clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:32.606645+00:00"}
+{"provider": "openalex", "query": "Vitruvius clepsydra Ctesibius", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:34.709186+00:00"}
+{"provider": "openalex", "query": "Hero Ctesibius clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:36.482970+00:00"}
+{"provider": "openalex", "query": "Heron Ctesibius water clock", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:38.786132+00:00"}
+{"provider": "openalex", "query": "Philo Byzantium water clock Ctesibius", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:40.794218+00:00"}
+{"provider": "openalex", "query": "De Architectura water clock Ctesibius", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:42.783410+00:00"}
+{"provider": "openalex", "query": "Ctesibius clepsydra archaeology", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:44.685717+00:00"}
+{"provider": "openalex", "query": "Ctesibius water clock scholarly article", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:46.550143+00:00"}
+{"provider": "openalex", "query": "Ctesibius hydraulic clock reconstruction paper", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:48.377089+00:00"}
+{"provider": "openalex", "query": "Ctesibius clepsydra dissertation", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:50.030870+00:00"}
+{"provider": "openalex", "query": "Ctesibius water clock thesis", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:51.744759+00:00"}
+{"provider": "openalex", "query": "Ctesibius water clock reconstruction", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:53.770227+00:00"}
+{"provider": "openalex", "query": "Ctesibius clepsydra model", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:55.859431+00:00"}
+{"provider": "openalex", "query": "Ctesibius hydraulic clock experiment", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:58.162100+00:00"}
+{"provider": "openalex", "query": "horloge à eau de Ctésibios", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:57:59.760361+00:00"}
+{"provider": "openalex", "query": "clepsydre de Ctésibios", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:02.128189+00:00"}
+{"provider": "openalex", "query": "Wasseruhr Ktesibius", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:10.190014+00:00"}
+{"provider": "openalex", "query": "orologio ad acqua Ctesibio", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:12.442539+00:00"}
+{"provider": "openalex", "query": "reloj de agua Ctesibio", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:14.355598+00:00"}
+{"provider": "openalex", "query": "κλεψύδρα Κτησίβιος", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:16.321310+00:00"}
+{"provider": "openalex", "query": "Κτησίβιος υδραυλικό ρολόι", "error": "<HTTPError 503: 'Service Unavailable'>", "at": "2026-09-28T09:58:18.083437+00:00"}
